@@ -5,6 +5,10 @@ Designed to demonstrate a complete real-world invoicing workflow, including paym
 
 ---
 
+![Laravel](https://img.shields.io/badge/Laravel-12-red)
+![Livewire](https://img.shields.io/badge/Livewire-3-blue)
+![Stripe](https://img.shields.io/badge/Stripe-API-purple)
+
 ## ✨ Features
 
 * 🔐 Authentication system (Laravel Breeze)
